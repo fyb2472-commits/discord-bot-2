@@ -202,5 +202,5 @@ async def manage_addons(interaction: discord.Interaction, pack_type: app_command
     await interaction.followup.send(embed=embed, view=view)
 
 # ใส่ Token บอทดิสคอร์ดของคุณตรงนี้เพื่อเปิดบอท
-bot.run("YOUR_BOT_TOKEN_HERE")
+bot.run("MTUyNTgxNTg4MTIxNTc3NDg2MA.G5yBHI.HR67FeFWaCBbrGwBiXcPzUxAGBHvl5gm2W4hmY")
 
